@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background: url("bg.png") top left fixed;
-    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Oswald', sans-serif;
     color: #fff;
     overflow-y: auto;
     
@@ -17,10 +17,8 @@ body {
     margin: 0 auto;
 }
 #top h1{
-    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-weight: 900;
-    font-stretch: condensed;
-    font-style: oblique;
     font-kerning: inherit;
     color: #fff;
     text-transform: uppercase;
@@ -28,9 +26,7 @@ body {
     z-index: 1;
 }
 #top h2{
-    font-family: 'Fjalla One', sans-serif;
-    font-stretch: condensed;
-    font-style: italic;
+    font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     color: #fff;
     font-size: 1.92em;
