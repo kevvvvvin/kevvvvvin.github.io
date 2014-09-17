@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background: url("bg.png") top left fixed;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
     color: #fff;
     overflow-y: auto;
     
@@ -17,7 +17,7 @@ body {
     margin: 0 auto;
 }
 #top h1{
-    font-family: 'Helvetica LT Std', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
     font-weight: 900;
     font-stretch: condensed;
     font-style: oblique;
@@ -28,7 +28,7 @@ body {
     z-index: 1;
 }
 #top h2{
-    font-family: Roboto, sans-serif;
+    font-family: 'Fjalla One', sans-serif;
     font-stretch: condensed;
     font-style: italic;
     text-transform: uppercase;
